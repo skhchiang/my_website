@@ -6,10 +6,6 @@ response.sendfile('index.html')
 })
 
 
-
-
-//he
-
 app.listen(8080);
 
 
