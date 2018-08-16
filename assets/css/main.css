@@ -1857,7 +1857,7 @@ input, select, textarea {
 
 				.box.style1 .image img {
 					position: absolute;
-					top: 10;
+					top: 10px;
 					/* top: 0; */
 					/* height: 100%;
 					width: auto; */
