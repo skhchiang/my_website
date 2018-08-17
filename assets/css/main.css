@@ -1851,8 +1851,8 @@ input, select, textarea {
 				top: 0;
 				width: 50%;
 				height: 100%;
-				/* background: #152E33; */
-				background: white;
+				background: #152E33;
+				/* background: white; */
 				overflow: hidden;
 			}
 
